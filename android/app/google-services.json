@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932114045753",
+    "project_id": "twittercloneteguh",
+    "storage_bucket": "twittercloneteguh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932114045753:android:6b417663966aac2432e6e8",
+        "android_client_info": {
+          "package_name": "com.example.twitter_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHr5ekpo_vzwdiFHJXu4CS7ruB-rAFlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
